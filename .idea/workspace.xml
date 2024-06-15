@@ -1,15 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="7c55cdbe-66a4-4989-b6e4-984bd7f060b5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/turtleCrossingGame.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/player.py" afterDir="false" />
+    <list default="true" id="7c55cdbe-66a4-4989-b6e4-984bd7f060b5" name="Changes" comment="creating player class and creating player object and showing on screen. adding listener for moving him forward">
+      <change afterPath="$PROJECT_DIR$/scoreboard.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +56,30 @@
       <option name="presentableId" value="Default" />
       <updated>1718461213441</updated>
     </task>
+    <task id="LOCAL‎-00001" summary="creating player class and creating player object and showing on screen. adding listener for moving him forward">
+      <option name="closed" value="true" />
+      <created>1718461724960</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL‎-00001" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1718461724960</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="creating player class and creating player object and showing on screen. adding listener for moving him forward" />
+    <option name="LAST_COMMIT_MESSAGE" value="creating player class and creating player object and showing on screen. adding listener for moving him forward" />
   </component>
 </project>

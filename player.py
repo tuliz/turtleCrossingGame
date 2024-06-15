@@ -9,3 +9,6 @@ class Player(Turtle):
 
     def move_forward(self):
         self.forward(15)
+
+    def goto_start(self):
+        self.goto(0, -300)
