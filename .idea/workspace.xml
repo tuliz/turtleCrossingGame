@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7c55cdbe-66a4-4989-b6e4-984bd7f060b5" name="Changes" comment="creating player class and creating player object and showing on screen. adding listener for moving him forward">
-      <change afterPath="$PROJECT_DIR$/scoreboard.py" afterDir="false" />
+    <list default="true" id="7c55cdbe-66a4-4989-b6e4-984bd7f060b5" name="Changes" comment="adding scoreboard class and creating, creating from it an object and showing it on screen. up the score when the turtle passes upper wall and bring him back to start">
+      <change afterPath="$PROJECT_DIR$/car.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scoreboard.py" beforeDir="false" afterPath="$PROJECT_DIR$/scoreboard.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +66,15 @@
       <option name="project" value="LOCAL‎" />
       <updated>1718461724960</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL‎-00002" summary="adding scoreboard class and creating, creating from it an object and showing it on screen. up the score when the turtle passes upper wall and bring him back to start">
+      <option name="closed" value="true" />
+      <created>1718462213447</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL‎-00002" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1718462213447</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -80,6 +90,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="creating player class and creating player object and showing on screen. adding listener for moving him forward" />
-    <option name="LAST_COMMIT_MESSAGE" value="creating player class and creating player object and showing on screen. adding listener for moving him forward" />
+    <MESSAGE value="adding scoreboard class and creating, creating from it an object and showing it on screen. up the score when the turtle passes upper wall and bring him back to start" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding scoreboard class and creating, creating from it an object and showing it on screen. up the score when the turtle passes upper wall and bring him back to start" />
   </component>
 </project>
